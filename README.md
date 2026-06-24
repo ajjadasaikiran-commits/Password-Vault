@@ -82,7 +82,7 @@ This repository contains only demonstration code and screenshots. All screenshot
 
 Electronics and Communication Engineering Graduate
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/ajjadasaikiran-commits
 
 ---
 
